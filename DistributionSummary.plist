@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GoShare2Enterprise.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>11315826EF93517C1700B4EADE99EAF59A82EAF6</string>
+				<key>dateExpires</key>
+				<string>2022/9/3</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NZG4A29HVF.com.goshare2.zhier.enterprise</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NZG4A29HVF</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>GoShare2Enterprise.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cfd96b14-bdd3-417e-af63-425985cf03e4</string>
+				<key>name</key>
+				<string>goshare_enterprise_distribution</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NZG4A29HVF</string>
+				<key>name</key>
+				<string>Shanghai Zhier network technology Co.,ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
